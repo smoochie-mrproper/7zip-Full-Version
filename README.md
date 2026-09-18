@@ -244,4 +244,4 @@ This repository serves as the official landing page for 7Zip. The software is di
 **Get the most recent version of 7Zip today!**
 
 ---
-**Last updated:** 2026-09-17 23:11:01 UTC
+**Last updated:** 2026-09-18 01:51:18 UTC
